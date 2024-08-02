@@ -1,0 +1,3 @@
+My name is Shruti
+Hello GitHub
+This is my DevOps exp3
